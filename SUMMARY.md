@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Estructura de Máquinas](README.md)
+
+## Laboratorios
+
+* [Untitled](laboratorios/untitled.md)
+
+## Proyectos
+
+* [Untitled](proyectos/untitled.md)
 
