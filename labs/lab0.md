@@ -236,29 +236,34 @@ Ya que tienen el token  pueden subir su laboratorio para que sea calificado y ob
 
 > **NOTA**: Tienen que reemplazar TOKEN por el token que generaron.
 
-![Notas de laboratorio](../.gitbook/assets/labs.png)
-
 Si ustedes navegan hacia la página de [laboratorios](https://autograders.org/labs), allí van a aparecer el estado de sus laboratorios, si ya están calificados o están pendientes de calificar por el autograder, la fecha y hora en que lo subieron al hacer `./submit` y el output de la consola y esto en tiempo real. De esta manera pueden obtener el feedback más rapidamente en caso en el GES todavía no estén subidas las notas.
 
+
+
+![Notas de laboratorio](../.gitbook/assets/labs.png)
+
+Si todos los sale bien deberían de obtener el siguiente resultado en el dashboard:;
+
 ```text
-   ___       __                        __
-  / _ |__ __/ /____  ___ ________ ____/ /__ ____
- / __ / // / __/ _ \/ _ `/ __/ _ `/ _  / -_) __/
-/_/ |_\_,_/\__/\___/\_, /_/  \_,_/\_,_/\__/_/
-                   /___/
+   ___       __       _____            __
+  / _ |__ __/ /____  / ___/______ ____/ /__ ____
+ / __ / // / __/ _ \/ (_ / __/ _ `/ _  / -_) __/
+/_/ |_\_,_/\__/\___/\___/_/  \_,_/\_,_/\__/_/
 
-Lab: lab0_git
+             Machine Structures
+     Great Ideas in Computer Architecture
 
-zipping source files...
-getting server url...
-waiting for results...
+
+Repo: lab0_git
+
+Best Score: 100/100
+
+Last Output:
 
 Exercise              Grade  Message
 ------------------  -------  ---------
 2. git and Remotes       20  passed
 3. Binary Alphabet       40  passed
 4. 1000 $1 Bills         40  passed
-
-=> Score 100.00/100
 ```
 
