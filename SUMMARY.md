@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Estructura de Máquinas](README.md)
 
 ## Laboratorios <a id="labs"></a>
 
