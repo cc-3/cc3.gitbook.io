@@ -4,5 +4,5 @@
 
 ## Laboratorios <a id="labs"></a>
 
-* [Lab 0 - Git](labs/lab-0-git.md)
+* [Lab 0 - Git](labs/lab0.md)
 
