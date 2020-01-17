@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## Laboratorios
+## Laboratorios <a id="labs"></a>
 
-* [Lab 0 - Git](laboratorios/lab-0-git.md)
+* [Lab 0 - Git](labs/lab-0-git.md)
 
