@@ -1,3 +1,7 @@
+---
+description: Git y Representación Numérica
+---
+
 # Lab 0 - Git
 
 ## Objetivos
