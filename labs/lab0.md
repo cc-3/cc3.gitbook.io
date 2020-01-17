@@ -218,7 +218,9 @@ Todos los laboratorios y proyectos de este curso tendrán autograders y podrán 
 
 ### Obteniendo el Token
 
-Luego de que inicien sesión con su cuente **@galileo.edu** van a poder obtener su token de identificación único pulsando sobre el _card_ que dice _**Token.**_
+Luego de que inicien sesión con su cuente **@galileo.edu** van a poder obtener su token de identificación único desde la página de inicio pulsando sobre el _card_ que dice _**Token.**_
+
+![Dashboard autograders](../.gitbook/assets/screen-shot-2020-01-16-at-21.52.31.png)
 
 ### Subiendo el laboratorio
 
@@ -229,6 +231,8 @@ Ya que tienen el token  pueden subir su laboratorio para que sea calificado y ob
 ```
 
 > **NOTA**: Tienen que reemplazar TOKEN por el token que generaron.
+
+![Notas de laboratorio](../.gitbook/assets/labs.png)
 
 Si ustedes navegan hacia la página de [laboratorios](https://autograders.org/labs), allí van a aparecer el estado de sus laboratorios, si ya están calificados o están pendientes de calificar por el autograder, la fecha y hora en que lo subieron al hacer `./submit` y el output de la consola y esto en tiempo real. De esta manera pueden obtener el feedback más rapidamente en caso en el GES todavía no estén subidas las notas.
 
