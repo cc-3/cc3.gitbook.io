@@ -214,11 +214,15 @@ git push -u origin master
 
 ## Calificación
 
-Todos los laboratorios y proyectos de este curso tendrán autograders y podrán saber su nota al terminarlo. Este proceso que van a ver a continuación lo tienen que seguir siempre para poder obtener su nota. El **staff** trabajo bastante para que su experiencia en este curso sea de las mejores, por eso ahora pueden visitar la siguiente página [https://dashboard.cc-3.site/](https://dashboard.cc-3.site/) en donde al iniciar sesión, **con su cuenta de galileo**, puedan ver el reporte de notas de los laboratorios y proyectos.
+Todos los laboratorios y proyectos de este curso tendrán autograders y podrán saber su nota al terminarlo. Este proceso que van a ver a continuación lo tienen que seguir siempre para poder obtener su nota. El **staff** trabajo bastante para que su experiencia en este curso sea de las mejores, por eso ahora pueden visitar la siguiente página [autograders.org](https://autograders.org) en donde al iniciar sesión, **con su cuenta de galileo**, puedan ver el reporte de notas de los laboratorios y proyectos.
+
+### Obteniendo el Token
+
+Luego de que inicien sesión con su cuente **@galileo.edu** van a poder obtener su token de identificación único pulsando sobre el _card_ que dice _**Token.**_
 
 ### Subiendo el laboratorio
 
-Ya que tienen el token generado pueden subir su laboratorio para que sea calificado y obtener su nota. Lo único que tienen que hacer para esto es ejecutar el siguiente comando en la terminal \(siempre estando en la carpeta del laboratorio\):
+Ya que tienen el token  pueden subir su laboratorio para que sea calificado y obtener su nota. Lo único que tienen que hacer para esto es ejecutar el siguiente comando en la terminal \(siempre estando en la carpeta del laboratorio\):
 
 ```text
 ./submit TOKEN
@@ -226,7 +230,7 @@ Ya que tienen el token generado pueden subir su laboratorio para que sea calific
 
 > **NOTA**: Tienen que reemplazar TOKEN por el token que generaron.
 
-Lo cual, si nada sale mal , les dará la nota que sacaron en el laboratorio y lo guardará en nuestra base de datos.
+Si ustedes navegan hacia la página de [laboratorios](https://autograders.org/labs), allí van a aparecer el estado de sus laboratorios, si ya están calificados o están pendientes de calificar por el autograder, la fecha y hora en que lo subieron al hacer `./submit` y el output de la consola y esto en tiempo real. De esta manera pueden obtener el feedback más rapidamente en caso en el GES todavía no estén subidas las notas.
 
 ```text
    ___       __                        __
