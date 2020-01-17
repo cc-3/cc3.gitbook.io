@@ -1,2 +1,2 @@
-# Estructura de Máquinas
+# Initial page
 
