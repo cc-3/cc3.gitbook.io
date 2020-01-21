@@ -193,7 +193,7 @@ En este archivo tienen que colocar todas sus respuestas de las preguntas de arri
 Si ya contestaron todo y creen que está correcto pueden agregar los cambios, hacer commit y subirlo al repositorio remoto ejecutando los siguientes comandos en la terminal:
 
 ```text
-git add ex4.txt
+git add ex3.txt
 git commit -m "ex. 3 complete"
 git push -u origin master
 ```
