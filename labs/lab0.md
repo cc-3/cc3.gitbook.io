@@ -83,7 +83,7 @@ ls
 Lo cual desplegará lo siguiente:
 
 ```text
-autograder  ex3.txt  ex4.txt  LICENSE  submit
+ex3.txt  ex4.txt  LICENSE  submit
 ```
 
 ### Haciendo push hacia GitHub
